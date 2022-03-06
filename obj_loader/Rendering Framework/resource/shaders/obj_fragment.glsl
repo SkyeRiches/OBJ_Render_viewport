@@ -26,7 +26,7 @@ vec4 lightDir = normalize(vec4(0.0f) - vec4(10.0f, 8.0f, 10.0f, 0.0f));
 void main()
 {
 	// get texture data from UV coords
-	vec4 textureData = texture(NormalTexture, vertUV);
+	vec4 textureData = texture(DiffuseTexture, vertUV);
 	vec3 Ambient = kA.xyz * iA;
 
 	float nDl = max(0.0f, dot(normalize(vertNormal), -lightDir));
