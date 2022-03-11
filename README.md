@@ -26,3 +26,4 @@ STB - https://github.com/nothings/stb
 
 
 # Resulting Output
+![OBJLoaderThumbnail](https://user-images.githubusercontent.com/71353999/157906639-672b7682-c68e-4176-8edd-e3a6808157ea.png)
