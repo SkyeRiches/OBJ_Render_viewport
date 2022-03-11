@@ -1,4 +1,4 @@
-# OBJ-Render-Viewport
+# OBJ Render Viewport
 This project was developed as part of a university assignment. The aim of the assignment was to use a combination of external libraries with C++ in order to create a 3D render window that allows a user to view OBJ model files.
 As well as loading OBJ files, this system can apply textures to the model so the user can see what the model looks like with the texture on it.
 
@@ -12,7 +12,7 @@ Due to time limitations the project currently only displays the hard coded OBJ f
 Future development on the project may involve taking in a file name from the command line that loads before the window opens so that the user can easily choose what model they want to load.
 
 
-# External-Libraries-Used
+# External Libraries Used
 
 GLAD - https://glad.dav1d.de/
 
@@ -24,3 +24,5 @@ IMGUI - https://github.com/ocornut/imgui
 
 STB - https://github.com/nothings/stb
 
+
+# Resulting Output
