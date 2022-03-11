@@ -15,7 +15,12 @@ Future development on the project may involve taking in a file name from the com
 # External-Libraries-Used
 
 GLAD - https://glad.dav1d.de/
+
 GLFW - https://www.glfw.org/
+
 GLM - https://github.com/g-truc/glm
+
 IMGUI - https://github.com/ocornut/imgui
+
 STB - https://github.com/nothings/stb
+
