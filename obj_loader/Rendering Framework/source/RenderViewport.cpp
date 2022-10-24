@@ -88,7 +88,7 @@ bool RenderViewport::onCreate()
     m_projectionMatrix = glm::perspective(glm::pi<float>() * 0.25f, m_windowWidth / (float)m_windowHeight, 0.1f, 1000.0f);
 
     m_objModel = new OBJModel();
-    if (m_objModel->load("resource/models/Model_D0208009/D0208009.obj", 0.1f))
+    if (m_objModel->load("resource/models/Model_C1102056/C1102056.obj", 0.1f))
     {
         TextureManager* pTM = TextureManager::GetInstance();
         // load in texture for model if any are present
